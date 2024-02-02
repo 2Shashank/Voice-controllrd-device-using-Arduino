@@ -1,1 +1,1 @@
-# IoT based automated voice controlled devece
+# IoT based automated voice controlled device
