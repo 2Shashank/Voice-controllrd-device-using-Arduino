@@ -41,13 +41,13 @@ void voicecontrol() {
   if (Serial.available() > 0) {
     value = Serial.read();
     Serial.println(value);
-    if (value == '!') {
+    if (value == 'forward') {
       forward();
     } 
-    else if (value == '?') {
+    else if (value == 'backward') {
       backward();
     }
-    else if (value == '*') {
+    else if (value == 'stop') {
       Stop();
     }
   }
