@@ -1,4 +1,4 @@
-# IoT based automated voice controlled device with obstacle avoidence
+# IoT based automated voice controlled device with obstacle avoidance
 
 This project implements a voice-controlled robot with obstacle avoidance capabilities using an Arduino. The robot uses an ultrasonic sensor to detect obstacles and control the motors to avoid collisions. It also responds to voice commands received via serial communication.
 
